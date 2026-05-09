@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <h1 align="center"><u>personal information card</u></h1>
+    </head>
+
+    <body style=" background-color: lightblue; padding:20px;">
+        <div style="margin: auto; padding: 20px; border:2px solid black; width: 500px; height: 200px; ">
+        <p>
+            <b> NAME: </b><i>shivam dhasandiya</i><br><br>
+            <b>Branch: </b><i>computer enggineering</i><br><br>
+            <b>Hobbies: </b><i>playing cricket, watching movies, coding</i>
+
+        </p>
+    </div>
+    </body>
+</html>
